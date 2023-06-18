@@ -1,0 +1,2 @@
+include stbipy/*
+include stbipy/bin/*
