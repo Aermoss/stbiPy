@@ -1,2 +1,2 @@
 # stbiPy
-Python wrapper for stb_image.
+A Python wrapper for stb_image.
